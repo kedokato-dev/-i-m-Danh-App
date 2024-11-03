@@ -97,3 +97,7 @@ https://github.com/user-attachments/assets/8008dd11-e1bc-46d8-b1b2-0e282ca93562
 
 Link tải ứng dụng:
 [Download APK](https://github.com/kedokato-dev/-i-m-Danh-App/releases/download/opensrc/Di.m.danh.sinh.vien-v1-release.apk)
+
+## Link Project
+Link đến Project Thunkable:
+[Link Project](https://x.thunkable.com/projects/67236121a0f09d814d317493/e02c6fb9-7850-4f72-85da-c5c29a0e9859/designer)
